@@ -1,5 +1,13 @@
 # Hey, I'm Purva! 👋
 
+<p align="center">
+
+![](https://img.shields.io/badge/🎓_Engineering-IIT_Bhilai-0A66C2?style=for-the-badge)
+![](https://img.shields.io/badge/🤖_Status-Arguing_with_LLMs_until_they_answer_correctly-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/☕_Current_Mode-Learning_Every_Day-FF6B6B?style=for-the-badge)
+
+</p>
+
 ```python
 while True:
     observe()
@@ -13,45 +21,55 @@ while True:
     repeat()
 ```
 
-⚡ **Engineering @ IIT Bhilai** • Currently arguing with LLMs until they answer correctly. 🤖
+💡 I love building AI systems that **reason, retrieve, and actually work.**
 
-💡 I love building AI systems that **reason, retrieve, and actually work**.
-
-🎭 When I'm not debugging AI, you'll probably find me dancing, acting, directing plays, organizing events, or convincing people to join *just one more rehearsal*.
+🎭 When I'm not debugging AI, you'll probably find me dancing, acting, directing plays, organizing events, or convincing people to join *just one more rehearsal.*
 
 ---
 
-## 🧠 Currently obsessed with
+## 🧠 Currently Obsessed With
 
-- 🤖 Multi-Agent AI
-- 📚 Advanced RAG (Self-RAG • CRAG • LangGraph)
-- 📊 LLM Evaluation & Observability
-- 🔍 Knowledge Graphs & Semantic Search
-- 👁️ Computer Vision
+![](https://img.shields.io/badge/🤖_Multi--Agent_AI-0A66C2?style=for-the-badge)
+![](https://img.shields.io/badge/🧠_Advanced_RAG-8A2BE2?style=for-the-badge)
+![](https://img.shields.io/badge/Self--RAG-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/CRAG-7B68EE?style=for-the-badge)
+![](https://img.shields.io/badge/LangGraph-4169E1?style=for-the-badge)
+
+![](https://img.shields.io/badge/📊_LLM_Evaluation-2E8B57?style=for-the-badge)
+![](https://img.shields.io/badge/🔭_Observability-20B2AA?style=for-the-badge)
+
+![](https://img.shields.io/badge/🔍_Knowledge_Graphs-FF6B6B?style=for-the-badge)
+![](https://img.shields.io/badge/Semantic_Search-FF7F50?style=for-the-badge)
+
+![](https://img.shields.io/badge/👁️_Computer_Vision-FFA500?style=for-the-badge)
+
 - 🚀 Taking AI from **my laptop → production**
 
 ---
 
 ## 🚀 Recent Adventures
 
-- 🛡️ Built a **Multi-Agent Insurance QA** system with Advanced RAG
-- 🌍 Developed **production-scale OSINT** intelligence platforms
-- 🔬 Researched **deep learning** for structural defect segmentation
-- 👁️ Applied **Computer Vision** for automated crack analysis
+🛡️ **Multi-Agent Insurance QA** with Advanced RAG
 
+🌍 **Production-scale OSINT** Intelligence Platform
+
+🔬 **Structural Crack Segmentation** Research
+
+📐 **Computer Vision** for Automated Crack Analysis
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-🏅 Amazon ML Challenge '25 — **AIR 1587**  
-🥈 GenAI Hackathon Finalist  
-💻 Always building something weird ✨
+🏅 **Amazon ML Challenge '25** • AIR **1587**
+
+🥈 **GenAI Hackathon Finalist**
+
+💻 **Always building something weird.**
 
 ---
 
 > 💭 *"If it can be automated, I'll probably try to build it."* 😄
-
 
 ---
 
