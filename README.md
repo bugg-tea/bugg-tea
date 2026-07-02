@@ -8,19 +8,6 @@
 
 </p>
 
-```python
-while True:
-    observe()
-    explore()
-    research()
-    learn()
-    build()
-    evaluate()
-    break_things()
-    debug()
-    repeat()
-```
-
 💡 I love building AI systems that **reason, retrieve, and actually work.**
 
 🎭 When I'm not debugging AI, you'll probably find me dancing, acting, directing plays, organizing events, or convincing people to join *just one more rehearsal.*
@@ -73,6 +60,21 @@ while True:
 
 ---
 
+## 🌱 Life Mantra
+
+```python
+while True:
+    observe()
+    explore()
+    research()
+    learn()
+    build()
+    evaluate()
+    break_things()
+    debug()
+    repeat()
+```
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purva-jivani-b9441129a/) 
 
