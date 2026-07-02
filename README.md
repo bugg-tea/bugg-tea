@@ -1,27 +1,59 @@
 # Hey, I'm Purva! 👋
 
-⚡ Engineering @ IIT Bhilai , Currently arguing with LLMs until they answer correctly..
+```python
+while True:
+    observe()
+    explore()
+    research()
+    learn()
+    build()
+    evaluate()
+    break_things()
+    debug()
+    repeat()
+```
 
-I like building things that **reason, retrieve, and actually work**.
-When I'm not debugging AI, you'll probably find me on stage :- dancing, acting, directing, organising events or convincing people to join one more rehearsal. 🎭✨
+⚡ **Engineering @ IIT Bhilai** • Currently arguing with LLMs until they answer correctly. 🤖
 
-Currently obsessed with:
+💡 I love building AI systems that **reason, retrieve, and actually work**.
+
+🎭 When I'm not debugging AI, you'll probably find me dancing, acting, directing plays, organizing events, or convincing people to join *just one more rehearsal*.
+
+---
+
+## 🧠 Currently obsessed with
+
 - 🤖 Multi-Agent AI
-- 🧠 Advanced RAG (Self-RAG • CRAG • LangGraph), LLM evaluation
+- 📚 Advanced RAG (Self-RAG • CRAG • LangGraph)
+- 📊 LLM Evaluation & Observability
 - 🔍 Knowledge Graphs & Semantic Search
 - 👁️ Computer Vision
-- 🚀 Shipping AI from my laptop → production
+- 🚀 Taking AI from **my laptop → production**
 
-Recent adventures:
-- 🛡️ Built a Multi-Agent Insurance QA system, with advance ragg
-- 🌍 Developed production-scale OSINT platforms
-- 🔬 Researched deep learning for structural defect segmentation
-- 👁️ Applied Computer Vision for automated crack analysis
+---
 
-🏆 Amazon ML Challenge '25 AIR 1587 | Hackathon Finalist | Always building something weird with AI.
+## 🚀 Recent Adventures
 
-> *"If it can be automated, I'll probably try to build it. "* 😄
+- 🛡️ Built a **Multi-Agent Insurance QA** system with Advanced RAG
+- 🌍 Developed **production-scale OSINT** intelligence platforms
+- 🔬 Researched **deep learning** for structural defect segmentation
+- 👁️ Applied **Computer Vision** for automated crack analysis
 
+
+---
+
+## 🏆 Achievements
+
+🏅 Amazon ML Challenge '25 — **AIR 1587**  
+🥈 GenAI Hackathon Finalist  
+💻 Always building something weird ✨
+
+---
+
+> 💭 *"If it can be automated, I'll probably try to build it."* 😄
+
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purva-jivani-b9441129a/) 
